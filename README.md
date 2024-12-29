@@ -26,7 +26,7 @@
 
 1. **Clone this repository** (or download the script directly):
    ```bash
-   git clone https://github.com/<your-username>/apk-url-extractor.git
+   git clone https://github.com/tavgar/apk-url-extractor.git
    cd apk-url-extractor
    ```
 
